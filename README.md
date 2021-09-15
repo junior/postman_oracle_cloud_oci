@@ -30,6 +30,8 @@ Update the `OCI Credentials` Postman Enviroment Variables with your Oracle Cloud
 
 ![Postman OCI Credentials](./images/postman_oci_credentials.gif)
 
+| ![Postman OracleDevs](./images/postman_oracledevs_screenshot.png) | ![OracleDes Workspace](./images/oracledevs_workspace_screenshot.png) | ![OracleDevs Collection](./images/oracledevs_collection_screenshot.png) |
+|---|---|---|
 ## API Reference and Endpoints
 
 For links to the Oracle Cloud Infrastructure API reference and a list of the regional API endpoints, see [API Reference and Endpoints](https://docs.oracle.com/iaas/api/).
@@ -48,7 +50,7 @@ Oracle Cloud Infrastructure will provide 12 months advance notice prior to the d
 
 ## Maximum Allowed Client Clock Skew
 
-HTTP status code 401 (NotAuthenticated) is returned if the client's clock is skewed more than 5 minutes from the server's. 
+HTTP status code 401 (NotAuthenticated) is returned if the client's clock is skewed more than 5 minutes from the server's.
 
 ## Request and Response Format
 
